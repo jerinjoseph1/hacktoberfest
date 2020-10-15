@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Jerin Joseph](https://github.com/jerinjoseph1)
+- Place: Calicut
+- Bio: Web Developer
+- GitHub: [Alex Marrujo](https://github.com/jerinjoseph1)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
